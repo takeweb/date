@@ -1,3 +1,3 @@
-module github.com/takeweb/date_util
+module github.com/takeweb/date-util
 
 go 1.16
