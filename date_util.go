@@ -1,4 +1,4 @@
-package date_util
+package date
 
 // うるう年かどうか判定する
 func IsLeapYear(year int) bool {
